@@ -12,8 +12,8 @@ public class PersistenceConfig {
 //    public DataSource dataSource() {
 //        DataSourceBuilder builder = DataSourceBuilder.create();
 //        builder.url("jdbc:postgresql://localhost:5433/docker");
-//        builder.username("docker");
-//        builder.password("docker");
+//        builder.username("");
+//        builder.password("");
 //        System.out.println("My custom datasource bean has been initialized and set");
 //        return builder.build();
 //    }
